@@ -7,6 +7,7 @@ try:
     import pandas
     import lightgbm
     import keras
+    import shap
 except Exception:
     print("some of the libraries are NOT installed properly")
     raise
