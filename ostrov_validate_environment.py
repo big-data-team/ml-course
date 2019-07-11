@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 try:
     import numpy
     import scipy
@@ -8,3 +9,5 @@ try:
 except Exception:
     print("some of the libraries are NOT installed properly")
     raise
+
+print("you are ready for the course!")
