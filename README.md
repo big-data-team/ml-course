@@ -1,6 +1,6 @@
 # About
 Practical Machine Learning Course
-https://bigdatateam.org/ru/machine-learning-course
+* https://bigdatateam.org/ru/machine-learning-course
 
 # Environment Configuration
 
