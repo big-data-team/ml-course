@@ -10,11 +10,11 @@ Practical Machine Learning Course
 export env_name="bdt-ml-course"
 conda create -n $env_name python=3.10 -y
 conda activate $env_name
-# there are packages that no more supported by conda
-# so, intead of this:
-# conda install --file requirements.txt
-# call directly pip:
+# conda retires packages quite aggressively
+# therefore pip is more robust way to setup environent:
 pip install -r requirements.txt
+# but if you love and trust conda, then call:
+# conda install --file requirements.txt
 ```
 
 For more information about Python virtual environments see:
