@@ -2,9 +2,9 @@
 
 По адресу https://bdt-knn-demo.streamlit.app/ доступно следующее приложение:
 
-![img](img/streamlit_01.png)
+![img](img/streamlit_demo_01.png)
 
-![img](img/streamlit_02.png)
+![img](img/streamlit_demo_02.png)
 
 Реализуйте с помощью [st.line_chart](https://docs.streamlit.io/develop/api-reference/charts/st.line_chart)
 и [st.setssion_state](https://docs.streamlit.io/develop/api-reference/caching-and-state/st.session_state)
